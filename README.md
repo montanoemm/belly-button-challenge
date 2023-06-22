@@ -19,4 +19,11 @@ The data analysis is performed through the next graphs.
 5.- A demographic table that will reflect the demographic information of the individual selectec.
 
 
+6.- Project was uploaded to github pages. link https://montanoemm.github.io/belly-button-challenge/
+
+
+For questions, please contact me through school dashboard at UT austin bootcamp
+
+
+Thank you
 
